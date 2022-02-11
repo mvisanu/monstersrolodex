@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitub.io/monstersrolodex/static/css/main.e591c8df.css",
+    "main.js": "/gitub.io/monstersrolodex/static/js/main.53cb055c.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/gitub.io/monstersrolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/gitub.io/monstersrolodex/index.html",
+    "main.e591c8df.css.map": "/gitub.io/monstersrolodex/static/css/main.e591c8df.css.map",
+    "main.53cb055c.js.map": "/gitub.io/monstersrolodex/static/js/main.53cb055c.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/gitub.io/monstersrolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e591c8df.css",
+    "static/js/main.53cb055c.js"
+  ]
+}
